@@ -1,0 +1,1180 @@
+body, nav, ul, li{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: #eae9e9;
+    font-family: arial;
+}
+
+#page{
+    width: 100%;
+    max-width: 1280px;
+    height: 100px;
+    margin: 0px auto;
+}
+
+nav{
+    line-height: 56px;
+}
+
+/*details section*/
+
+.topdeals{
+    width: 48%;
+    height: 550px;
+    margin: 0px 10px;
+    margin-top: 20px;
+    padding: 20px 0px;
+    background: #fff;
+    float: left;
+    border-radius: 30px;
+}
+
+.topdeals img{
+    width: 100%;
+}
+
+h1{
+    font-size: 55px;
+    color: #000;
+    text-align: center;
+}
+
+.explore{
+    font-size: 18px;
+    color: #5c5a5a;
+    text-align: center;
+}
+
+.explore a{
+    text-decoration: none;
+    color: #5c5a5a;
+}
+
+.newlaunch{
+    margin: 60px 0px;
+    padding: 60px 0px;
+    height: 140px;
+    background: #eae9e9;
+    color: #000;
+    text-align: center;
+}
+
+.box{
+    width: 23.2%;
+    /*width: 300px;*/
+    /*height: 499px;*/
+    /*height: 480px;*/
+    margin: 0px 10px;
+    background: #fff;
+    float: left;
+    border-radius: 30px;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+}
+
+.box img{
+    width: 100%;
+}
+
+.box1{
+    width: 23.2%;
+    /*width: 300px;*/
+    height: 499px;
+    background: #eae9e9;
+    margin: 0px 10px;
+    float: left;
+}
+
+.off{
+    /*width: 16.6;*/
+    width: 50px;
+    height: 20px;
+    line-height: 20px;
+    margin: 15px;
+    background: #ffa70d;
+    border-radius: 30px;
+    font-size: 10px;
+    font-family: arial;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+}
+
+.productname{
+    margin: 15px 0px;
+    font-size: 20px;
+    font-family: arial;
+    font-weight: bold;
+    text-align: center;
+    color: #000;
+    margin-bottom: 40px;
+}
+
+.price{
+    font-size: 15px;
+    color: #000;
+    font-family: arial;
+    text-align: center;
+}
+
+.price1{
+    text-decoration: line-through;
+    font-style: italic;
+}
+
+.line{
+    height: 5px;
+    background: #5c5959;
+    margin: 10px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.voucher{
+    margin: 0px;
+    margin-bottom: 20px;
+    font-size: 11px;
+    font-family: arial;
+    font-weight: bold;
+    font-style: italic;
+    color: #000;
+    text-align: center;
+}
+
+.buynow{
+    /*width: 40%;*/
+    width: 120px;
+    height: 40px;
+    line-height: 40px;
+    margin: 10px auto;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    background: #000;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+}
+
+.buynow a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.buynow:hover{
+    background: #00f;
+    color: #000;
+    box-shadow: 1px 2px 4px #eae9e9;
+    /*background-color: #fff;*/
+}
+
+/*footer part*/
+
+.followus{
+    width: 100%;
+    margin: 50px 0px;
+    background: #fff;
+    float: left;
+}
+
+.iconbox{
+    width: auto;
+    justify-content: center;
+    padding-left: 400px;
+}
+
+.icons{
+    width: 100%;
+}
+
+.icon1{
+    width: 50px;
+    height: 50px;
+    margin: 20px 60px 0px 60px;
+    float: left;
+}
+
+.icon2{
+    width: 50px;
+    height: 50px;
+    padding-left: 70px;
+}
+
+.text{
+    margin: 30px 20px;
+    font-size: 14px;
+    line-height: 20px;
+    font-family: arial;
+    text-align: left;
+    color: #000;
+    float: left;
+}
+
+.text2{
+    margin: 0px;
+    padding-left: 20px;
+    font-family: arial;
+    font-size: 14px;
+    text-align: center;
+    float: left;
+    color: #000;
+}
+
+.text3{
+    margin: 0px;
+    padding-left: 20px;
+    font-family: arial;
+    font-size: 12px;
+    text-align: center;
+    float: left;
+    color: #000;
+}
+
+.g{
+    width: 100%;
+    float: left;
+}
+
+.proser{
+    width: 23.64%;
+    height: 950px;
+    float: left;
+    margin: 10px;
+    margin-bottom: 0px;
+    border: #000 3px solid;
+}
+
+h3{
+    font-size: 16px;
+    color: #000;
+    text-align: left;
+    padding-left: 15px;
+    margin: 30px 0px 55px;
+}
+
+.proser li{
+    font-size: 14px;
+    color: #000;
+    text-align: left;
+    margin: 20px 0px;
+    padding-left: 15px;
+    list-style: none;
+}
+
+.proser li a{
+    text-decoration: none;
+    color: #000;
+}
+
+.proser li a:hover{
+    color: #00f;
+}
+
+.gap{
+    height: 30px;
+}
+
+.t4{
+    margin: 30px 0px;
+    float: left;
+    padding-left: 20px;
+    font-size: 14px;
+    font-family: arial;
+    text-align: left;
+    color: #000;
+}
+
+.t5{
+    margin: 0px;
+    float: left;
+    padding-left: 20px;
+    font-size: 14px;
+    font-family: arial;
+    text-align: left;
+    color: #000;
+}
+
+.foot{
+    width: 100%;
+    height: 80px;
+    padding-left: 20px;
+    background: #000;
+    float: left;
+    margin-bottom: 0px;
+}
+
+.foot li{
+    font-size: 16px;
+    color: #000;
+    font-family: arial;
+    line-height: 80px;
+    display: inline;
+    padding: 150px;
+    padding-left: 20px;
+}
+
+.foot li a{
+    text-decoration: none;
+    color: #fff;
+}
+
+.foot li a:hover{
+    color: cyan;
+}
+
+.foot img{
+    width: 40px;
+    height: 40px;
+    float: right;
+    margin: 2px 10px;
+}
+
+/*top deals page css*/
+
+/*h1 {
+    margin: 30px 0px;
+    padding: 20px 0px;
+}*/
+
+.headingtag{
+    margin: 60px 0px;
+    padding: 20px 0px;
+}
+
+.banner2{
+    /*height: 400px;*/
+    height: 800px;
+    margin-top: 80px;
+}
+
+.banner2 img{
+    width: 100%;
+    height: 100%;
+}
+
+h2{
+    font-size: 40px;
+    margin: 20px 0px;
+    padding: 20px 0px;
+    color: #000;
+    text-align: center;
+}
+
+.topdeals2{
+    width: 48%;
+    height: auto;
+    /*height: 550px;*/
+    margin: 0px 10px;
+    margin-top: 20px;
+    padding-bottom: 20px;
+    background: #fff;
+    float: left;
+    border-radius: 30px;
+}
+
+.topdeals2 img{
+    width: 100%;
+}
+
+.register{
+    width: 250px;
+    height: 50px;
+    line-height: 50px;
+    margin: 20px auto;
+    border-radius: 30px;
+    background: #ffa70d;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.register a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.register:hover{
+    background: #000;
+    color: #ffa70d;
+}
+
+.prebooking{
+    width: 30.40%;
+    height: 60px;
+    line-height: 60px;
+    margin: 60px auto;
+    margin-bottom: 20px;
+    padding: 0px;
+    border-radius: 40px;
+    background: #000;
+    font-size: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+.prebooking a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.prebooking:hover{
+    background: #00f;
+    color: #fff;
+    box-shadow: 1px 2px 4px #eae9e9;
+}
+
+
+
+
+@media screen and (max-width:1200px) {
+    body{
+        height: auto;
+    }
+
+    .topdeals{
+        width: 48%;
+        height: auto;
+        box-sizing: border-box;
+        padding: 0px;
+    }
+
+    h1{
+        font-size: 48px;
+        padding: 20px 0px 10px;
+    }
+
+    .topdeals img{
+        width: 100%;
+    }
+
+    .explore{
+        font-size: 14px;
+    }
+
+    .newlaunch{
+        padding-bottom: 0px;
+        margin: 30px 0px;
+        padding: 30px 0px; 
+    }
+
+    .box{
+        width: 23.2%;
+    }
+
+    .productname{
+        font-size: 18px;
+    }
+
+    .price{
+        font-size: 14px;
+    }
+
+    .line{
+        height: 4px;
+    }
+
+    .voucher{
+        font-size: 10px;
+        padding: 0px 1.5px;
+    }
+
+    .followus{
+        margin: 40px 0px;
+        height: auto;
+    }
+
+    .iconbox{
+        padding-left: 260px;
+    }
+
+    .text{
+        margin: 25px 20px;
+        font-size: 12px;
+    }
+
+    .text2{
+        padding-left: 15px;
+        font-size: 12px;
+    }
+
+    .proser{
+        width: 23.5%;
+        height: 940px;
+        margin: 0px 7.5px;
+        margin-top: 15px;
+    }
+
+    .foot li{
+        font-size: 15px;
+        padding: 70px;
+        padding-left: 50px;
+    }
+
+    nav{
+        line-height: 18px;
+    }
+
+    /*top deals page*/
+
+    .headingtag{
+        margin: 50px 0px;
+    }
+
+    .banner2{
+        height: auto;
+        margin-top: 70px;
+    }
+
+    h2{
+        font-size: 36px;
+        margin: 15px 0px;
+        padding: 15px 0px;
+    }
+
+    .topdeals2{
+        width: 48%;
+        height: auto;
+        box-sizing: border-box;
+    }
+
+    .topdeals2 img{
+        width: 100%;
+    }
+
+    .register{
+        width: 210px;
+        font-size: 18px;
+        height: auto;
+    }
+
+    .prebooking{
+        /*width: 37.49%;*/  
+        height: auto;
+    }
+}
+
+@media screen and (max-width:992px) {
+
+    body{
+        height: auto;
+    }
+
+    .topdeals{
+        width: 47.5%;
+        padding: 5px 0px 0px;
+        height: auto;
+        box-sizing: border-box;
+    }
+
+    h1{
+        font-size: 42px;
+    }
+
+    .topdeals img{
+        width: 100%;
+    }
+
+    .explore{
+        font-size: 14px;
+    }
+
+    .newlaunch{
+        margin: 0px 0px 20px;
+        padding: 30px 0px;
+    }
+
+    .box{
+        width: 22.9%;
+    }
+
+    .box1{
+        width: 22.9%;
+    }
+
+    .followus{
+        margin: 20px 0px;
+    }
+
+    .iconbox{
+        padding-left: 215px;
+    }
+
+    .icon1{
+        margin: 15px 45px 0px;
+    }
+
+    .proser{
+        width: 23.3%;
+        height: 810px;
+    }
+
+    h3{
+        margin: 25px 0px 35px;
+        padding-left: 10px;
+    }
+
+    .proser li{
+        margin: 15px 0px;
+        padding-left: 10px;
+    }
+
+    .t4{
+        margin: 20px 0px;
+        padding-left: 18px;
+    }
+
+    .foot{
+        height: 75px;
+        padding-left: 0px;
+    }
+
+    .foot li{
+        font-size: 14px;
+        padding: 15px;
+        padding-left: 70px;
+        line-height: 75px;
+    }
+
+    /*nav{
+        line-height: 20px;
+    }*/
+
+    /*top deals page*/
+
+    .headingtag{
+        margin: 45px 0px;
+    }
+
+    .banner2{
+        height: auto;
+        margin-top: 65px;
+    }
+
+    h2{
+        font-size: 34px;
+        margin: 12px 0px;
+        padding: 12px 0px;
+    }
+
+    .topdeals2{
+        width: 47.5%;
+        height: auto;
+        box-sizing: border-box;
+    }
+
+    .topdeals2 img{
+        width: 100%;
+    }
+
+    .register{
+        width: 180px;
+        font-size: 18px;
+        height: auto;
+    }
+
+    .prebooking{
+        height: auto;
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width:768px) {
+    
+    body{
+        height: auto;
+    }
+
+    .topdeals{
+        width: 47.39%;
+        height: auto;
+        margin-top: 15px;
+        padding: 0px;
+        box-sizing: border-box;
+    }
+
+    h1{
+        font-size: 28px;
+    }
+
+    .topdeals img{
+        width: 100%;
+    }
+
+    .explore{
+        font-size: 14px;
+    }
+
+    .newlaunch{
+        width: auto;
+        height: auto;
+        padding: 10px 0px;
+        margin: 20px 0px;
+    }
+
+    .box1{
+        display: none;
+    }
+
+    .box{
+        width: 30.72%;
+    }
+
+    .productname{
+        font-size: 16px;
+        margin-bottom: 30px;
+    }
+
+    .price{
+        font-size: 14px;
+    }
+
+    .line{
+        height: 3px;
+        margin: 10px;
+        margin-top: 20px;
+    }
+    
+    .voucher{
+        font-size: 9px;
+        margin: 0px 10px;
+    }
+
+    .followus{
+        margin: 20px 0px;
+        height: auto;
+    }
+
+    .iconbox{
+        padding-left: 130px;
+    }
+
+    .icon1{
+        margin: 25px 40px 0px;
+    }
+
+    .icon1 img{
+        width: 40px;
+        height: 40px;
+    }
+
+    .text{
+        margin: 20px 10px;
+        font-size: 12px;
+    }
+
+    .text2{
+        padding-left: 10px;
+        font-size: 12px;
+    }
+
+    .text3{
+        padding-left: 10px;
+        font-size: 12px;
+    }
+
+    .proser{
+        width: 23%;
+        height: 730px;
+        margin: 0px 7.5px;
+        margin-top: 15px;
+    }
+
+    h3{
+        margin: 20px 0px 30px;
+        padding-left: 8px;
+        font-size: 14px;
+    }
+
+    .proser li{
+        margin: 15px 0px;
+        padding-left: 8px;
+        font-size: 12px;
+    }
+
+    .t4{
+        margin: 15px 0px;
+        padding-left: 15px;
+        font-size: 12px;
+    }
+
+    .t5{
+        padding-left: 15px;
+        font-size: 12px;
+    }
+
+    .foot{
+        height: 70px;
+        padding-left: 0px;
+    }
+
+    .foot li{
+        font-size: 13px;
+        padding: 15px 0px;
+        padding-left: 60px;
+        line-height: 70px;
+    }
+    /*top deals page*/
+
+    .headingtag{
+        margin: 35px 0px;
+        padding: 15px 0px;
+    }
+
+    .banner2{
+        height: auto;
+        margin-top: 45px;
+    }
+
+    h2{
+        font-size: 26px;
+        margin: 10px 0px;
+        padding: 10px 0px;
+    }
+
+    .topdeals2{
+        width: 47.39%;
+        padding-bottom: 10px;
+        height: auto;
+        box-sizing: border-box;
+    }
+
+    .topdeals2 img{
+        width: 100%;
+    }
+
+    .register{
+        width: 180px;
+        font-size: 16px;
+        height: auto;
+    }
+
+    .prebooking{
+        width: 40%;
+        height: auto;
+        margin-top: 50px;
+        font-size: 16px;
+    }
+}
+
+@media screen and (max-width:576px) {
+    
+    body{
+        height: auto;
+    }
+
+
+    .topdeals{
+        width: 46%;
+        height: auto;
+        box-sizing: border-box;
+    }
+
+    .newlaunch{
+        margin: 10px 0px;
+        padding: 8px;
+        width: auto;
+        height: auto;
+    }
+
+    .box1{
+        display: none;
+    }
+
+    .box{
+        width: 46%;
+        height: auto;
+    }
+
+    .productname{
+        font-size: 18px;
+        margin-bottom: 15px;
+    }
+
+    .price{
+        display: none;
+    }
+
+    .line{
+        display: none;
+    }
+
+    .voucher{
+        display: none;
+    }
+
+    .followus{
+        height: auto;
+        margin: 15px 0px;
+    }
+
+    .iconbox{
+        padding-left: 70px;
+    }
+
+    .icon1{
+        margin: 10px 30px;
+    }
+
+    .text{
+        margin: 10px;
+    }
+
+    .proser{
+        width: 23.2%;
+        height: 710px;
+        margin: 15px 5px 0px;
+        border: #000 2px solid;
+    }
+
+    h3{
+        margin: 15px 0px 25px;
+        font-size: 13px;
+        padding-left: 7px;
+    }
+
+    .proser li{
+        padding-left: 7px;
+        font-size: 11px;
+    }
+
+    .foot{
+        height: 60px;
+        padding-left: 0px;
+    }
+
+    .foot li{
+        font-size: 12px;
+        padding: 10px;
+        padding-left: 30px;
+        line-height: 60px;
+    }
+
+    /* Top deals Page CSS */
+
+    .headingtag{
+        margin: 25px 0px;
+        padding: 12px 0px;
+    }
+
+    .banner2{
+        height: auto;
+        margin-top: 30px;
+    }
+
+    h2{
+        font-size: 24px;
+        margin: 10px 0px;
+        padding: 10px 0px;
+    }
+
+    .topdeals2{
+        width: 46%;
+        padding-bottom: 0px;
+        height: auto;
+        box-sizing: border-box;
+    }
+
+    .topdeals2 img{
+        width: 100%;
+    }
+
+    .register{
+        width: 150px;
+        font-size: 14px;
+        height: auto;
+    }
+
+    .prebooking{
+        width: 40%;
+        height: auto;
+        margin-top: 30px;
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    
+    body{
+        height: auto;
+    }
+
+    .topdeals{
+        width: 45%;
+        height: auto;
+        margin-top: 10px;
+        padding: 5px;
+        box-sizing: border-box;
+    }
+
+    h1{
+        font-size: 22px;
+    }
+
+    .topdeals img{
+        width: 100%;
+    }
+
+    .explore{
+        font-size: 8px;    
+    }
+
+    .newlaunch{
+        margin: 10px 0px;
+        padding: 5px;
+        width: auto;
+        height: auto;
+    }
+
+    .box1{
+        display: none;
+    }
+
+    .box{
+        width: 45%;
+        height: auto;
+    }
+
+    .productname{
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+
+    .price{
+        display: none;
+    }
+
+    .line{
+        display: none;
+    }
+
+    .voucher{
+        display: none;
+    }
+
+    .followus{
+        height: auto;
+        margin: 0px;
+    }
+
+    .iconbox{
+        padding-left: 70px;
+    }
+
+    .icon1{
+        width: 30px;
+        height: 30px;
+        margin: 10px;
+        margin-right: 28px;
+    }
+
+    .icon1 img{
+        width: 30px;
+        height: 30px;
+    }
+
+    .text{
+        margin: 15px 10px;
+        font-size: 12px;
+    }
+
+    .text2{
+        font-size: 12px;
+    }
+
+    .text3{
+        font-size: 12px;
+    }
+
+    .proser{
+        width: 23.5%;
+        height: 700px;
+        margin: 0px 2px;
+        margin-top: 10px;
+        border: #000 2px solid;
+    }
+
+    h3{
+        margin: 5px 0px;
+        font-size: 12px;
+        padding-left: 5px;
+    }
+
+    .proser li{
+        padding-left: 5px;
+        font-size: 10px;
+    }
+
+    .t4{
+        margin: 15px 0px;
+        padding-left: 15px;
+        font-size: 11px;
+    }
+
+    .t5{
+        margin: auto;
+        padding-left: 15px;
+        font-size: 11px;
+    }
+
+    .foot{
+        height: 50px;
+        padding-left: 0px;
+    }
+
+    .foot li{
+        font-size: 10px;
+        padding: 10px;
+        padding-left: 15px;
+        line-height: 50px;
+    }
+
+    /*top deals page*/
+
+    .headingtag{
+        margin: 20px 0px;
+        padding: 10px 0px;
+    }
+
+    .banner2{
+        height: auto;
+        margin-top: 15px;
+    }
+
+    h2{
+        font-size: 20px;
+        margin: 5px 0px;
+        padding: 5px 0px;
+    }
+
+    .topdeals2{
+        width: 45%;
+        height: auto;
+        box-sizing: border-box;
+    }
+
+    .topdeals2 img{
+        width: 100%;
+    }
+
+    .register{
+        width: 120px;
+        font-size: 12px;
+        height: 30px;
+        line-height: 30px;
+        margin: 15px 30px;
+    }
+
+    .prebooking{
+        width: 37.5%;
+        height: 40px;
+        line-height: 40px;
+        margin-top: 20px;
+        font-size: 12px;
+    }
+}
+
+.clear{
+    clear: both;
+}
